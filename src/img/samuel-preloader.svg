@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177" height="108" viewBox="0 0 177 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1a1818;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #e50019;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="samuel-preloader" transform="translate(-212.816 -226.625)">
+    <rect id="container" class="cls-1" width="177" height="108" transform="translate(212.816 226.625)"/>
+    <g id="l-stroke">
+      <line id="Line_10" data-name="Line 10" class="cls-2" x1="17.522" transform="translate(318.643 308.314)"/>
+      <line id="Line_11" data-name="Line 11" class="cls-3" y2="27.192" transform="translate(320.48 283.656)"/>
+    </g>
+    <g id="e-stroke">
+      <line id="bottom" class="cls-2" x1="17.522" transform="translate(295.453 308.267)"/>
+      <line id="middle" class="cls-2" x1="12.837" transform="translate(295.453 296.769)"/>
+      <line id="top" class="cls-2" x1="17.522" transform="translate(295.453 285.946)"/>
+    </g>
+    <path id="u-stroke" class="cls-3" d="M289.344,283.46v15.071q0,5.058-2.885,7.884a10.811,10.811,0,0,1-7.909,2.827q-5.073,0-7.958-2.819t-2.885-7.892V283.46"/>
+    <path id="m-stroke" class="cls-4" d="M311.1,274.734l.054-19.678,12.482,11.583L336.1,255.491v19.242"/>
+    <path id="a-stroke" class="cls-3" d="M284.887,275.138s7.634-13.7,9.4-17.819c1.767,4.114,9.4,17.819,9.4,17.819"/>
+    <path id="s-stroke" class="cls-3" d="M279.345,256.539a6.2,6.2,0,0,0-5.92-3.914c-3.672,0-7.594,2.14-6.384,6.29A4.206,4.206,0,0,0,270,261.542c1.681.559,3.473.734,5.173,1.24a8.211,8.211,0,0,1,3.769,1.781,5.009,5.009,0,0,1,1,3.682,4.388,4.388,0,0,1-2.05,3.289c-2.884,1.892-7.155,1.892-9.688-.793-.966-1.024-1.134-3.1-1.265-4.559"/>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173.563" height="61.217" viewBox="0 0 173.563 61.217">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a1014;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #4f5d67;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #f5f5f5;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 13px;
+        font-family: Metropolis-SemiBold, Metropolis;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        filter: url(#_FFFFFF);
+      }
+    </style>
+    <filter id="_FFFFFF" x="42.07" y="12.051" width="88" height="43" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#151515" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="third" transform="translate(53.804 53.222) rotate(180)">
+    <g id="location_small" data-name="location small" transform="translate(0 0.005)">
+      <path id="dark" class="cls-1" d="M-107.532,0H39.095c4.124,0,7.468,3.832,7.468,8.559v32.1c0,4.727-3.343,8.559-7.468,8.559H-107.532c-4.124,0-7.468-3.832-7.468-8.559V8.559C-115,3.832-111.657,0-107.532,0Z" transform="translate(1.242 -2)"/>
+      <path id="ligh" class="cls-2" d="M-102.761,0H34.387a7.239,7.239,0,0,1,7.239,7.238V34.383a7.239,7.239,0,0,1-7.239,7.238H-102.761A7.239,7.239,0,0,1-110,34.383V7.238A7.239,7.239,0,0,1-102.761,0Z" transform="translate(0 -2)"/>
+      <path id="main" class="cls-3" d="M-102.761,0H34.387a7.239,7.239,0,0,1,7.239,7.238V34.383a7.239,7.239,0,0,1-7.239,7.238H-102.761A7.239,7.239,0,0,1-110,34.383V7.238A7.239,7.239,0,0,1-102.761,0Z" transform="translate(1.81 1.81)"/>
+      <g class="cls-6" transform="matrix(-1, 0, 0, -1, 53.8, 53.22)">
+        <text id="_FFFFFF-2" data-name="#FFFFFF" class="cls-4" transform="translate(57.07 34.05)"><tspan x="0" y="0">#FFFFFF</tspan></text>
+      </g>
+      <text id="_FFFFFF-3" data-name="#FFFFFF" class="cls-5" transform="translate(-3.266 19.167) rotate(-180)"><tspan x="0" y="0">#FFFFFF</tspan></text>
+    </g>
+  </g>
+</svg>

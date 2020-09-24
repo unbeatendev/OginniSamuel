@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afddff"/>
+      <stop offset="0.027" stop-color="#acdaff"/>
+      <stop offset="0.686" stop-color="#6f9cff"/>
+      <stop offset="1" stop-color="#5885ff"/>
+    </linearGradient>
+  </defs>
+  <g id="logofolio" transform="translate(-1283 -1979)">
+    <path id="question-circle" class="cls-1" d="M33,8A25,25,0,1,0,58,33,25,25,0,0,0,33,8Zm0,45.161A20.161,20.161,0,1,1,53.161,33,20.149,20.149,0,0,1,33,53.161ZM43.811,27.435c0,6.759-7.3,6.863-7.3,9.361v.639a1.21,1.21,0,0,1-1.21,1.21H30.7a1.21,1.21,0,0,1-1.21-1.21v-.873c0-3.6,2.732-5.044,4.8-6.2,1.77-.992,2.855-1.667,2.855-2.982,0-1.739-2.218-2.892-4.01-2.892-2.338,0-3.417,1.107-4.934,3.021a1.211,1.211,0,0,1-1.68.214l-2.8-2.127a1.212,1.212,0,0,1-.267-1.649,11.332,11.332,0,0,1,10.139-5.462C38.531,18.484,43.811,22.345,43.811,27.435ZM37.234,44.29A4.234,4.234,0,1,1,33,40.056,4.239,4.239,0,0,1,37.234,44.29Z" transform="translate(1275 1971)"/>
+  </g>
+</svg>

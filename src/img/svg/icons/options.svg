@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.854" height="64.637" viewBox="0 0 64.854 64.637">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f5d67;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #0a1014;
+      }
+
+      .cls-3 {
+        fill: #2c384c;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="options" transform="translate(9 9)">
+    <g id="location_small" data-name="location small" transform="translate(0 0)">
+      <path id="ligh" class="cls-1" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z"/>
+      <path id="dark" class="cls-2" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z" transform="translate(3.453 5.179)"/>
+      <path id="main" class="cls-3" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z" transform="translate(0.863 2.59)"/>
+      <circle id="Ellipse_352" data-name="Ellipse 352" class="cls-4" cx="2.5" cy="2.5" r="2.5" transform="translate(12.128 21.081)"/>
+      <circle id="Ellipse_353" data-name="Ellipse 353" class="cls-4" cx="2.5" cy="2.5" r="2.5" transform="translate(20.128 21.081)"/>
+      <circle id="Ellipse_354" data-name="Ellipse 354" class="cls-4" cx="2.5" cy="2.5" r="2.5" transform="translate(28.128 21.081)"/>
+    </g>
+  </g>
+</svg>

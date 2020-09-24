@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #c5c7f0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="star" transform="translate(0.313 0.292)">
+    <rect id="Rectangle_2296" data-name="Rectangle 2296" class="cls-1" width="39" height="39" rx="7" transform="translate(38.687 -0.292) rotate(90)"/>
+    <path id="star-2" data-name="star" class="cls-2" d="M28.937.563,26.63,4.846l-5.162.689A1.015,1.015,0,0,0,20.842,7.3l3.735,3.331-.883,4.706a1.113,1.113,0,0,0,1.639,1.09l4.618-2.222,4.618,2.222a1.113,1.113,0,0,0,1.639-1.09l-.883-4.706L39.059,7.3a1.015,1.015,0,0,0-.625-1.766l-5.162-.689L30.965.563A1.18,1.18,0,0,0,28.937.563Z" transform="translate(-10.458 8.84)"/>
+  </g>
+</svg>

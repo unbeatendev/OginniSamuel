@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #c5c7f0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="add" transform="translate(-1.675 -1.675)">
+    <path id="main" class="cls-1" d="M6.783,0H32.217A6.783,6.783,0,0,1,39,6.783V32.217A6.783,6.783,0,0,1,32.217,39H6.783A6.783,6.783,0,0,1,0,32.217V6.783A6.783,6.783,0,0,1,6.783,0Z" transform="translate(1.675 1.675)"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(27.258 15.328) rotate(90)">
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-2" width="2.001" height="11.116" rx="1.001" transform="translate(4.495)"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-2" width="2.001" height="11.116" rx="1.001" transform="translate(11.116 4.495) rotate(90)"/>
+    </g>
+  </g>
+</svg>

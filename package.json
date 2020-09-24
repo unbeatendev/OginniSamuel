@@ -1,0 +1,37 @@
+{
+  "name": "oginni_samuel_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "rm -rf ./development && rm -rf ./.cache && parcel src/index.html --out-dir development -p",
+    "build": "parcel build src/index.html --out-dir dist --public-url ./"
+  },
+  "keywords": [
+    "Design",
+    "Developer",
+    "Portfolio",
+    "Case",
+    "Study",
+    "Blog",
+    "Designer"
+  ],
+  "author": "Oginni Samuel",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/runtime-corejs3": "^7.11.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "gsap": "^3.4.2",
+    "jquery": "^3.5.1",
+    "swiper": "^6.0.4"
+  }
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.854" height="64.637" viewBox="0 0 64.854 64.637">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f5d67;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #0a1014;
+      }
+
+      .cls-3 {
+        fill: #2c384c;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="back" transform="translate(9 9)">
+    <g id="location_small" data-name="location small" transform="translate(0 0)">
+      <path id="ligh" class="cls-1" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z"/>
+      <path id="dark" class="cls-2" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z" transform="translate(3.453 5.179)"/>
+      <path id="main" class="cls-3" d="M7.548,0H35.853A7.385,7.385,0,0,1,43.4,7.21V34.248a7.385,7.385,0,0,1-7.548,7.21H7.548A7.385,7.385,0,0,1,0,34.248V7.21A7.385,7.385,0,0,1,7.548,0Z" transform="translate(0.863 2.59)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-4" d="M-1.356,0-8,6.644l6.644,6.644" transform="translate(26.806 16.437)"/>
+    </g>
+  </g>
+</svg>

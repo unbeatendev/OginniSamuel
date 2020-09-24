@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.246" height="57.241" viewBox="0 0 57.246 57.241">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f5d67;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #0a1014;
+      }
+
+      .cls-3 {
+        fill: #2c384c;
+      }
+
+      .cls-4 {
+        fill: #e2e2e2;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #e2e2e2;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="nextMusic" transform="translate(51.246 51.246) rotate(180)">
+    <g id="location_small" data-name="location small" transform="translate(0 0.005)">
+      <path id="ligh" class="cls-1" d="M7.239,0H34.387a7.239,7.239,0,0,1,7.239,7.238V34.383a7.239,7.239,0,0,1-7.239,7.238H7.239A7.239,7.239,0,0,1,0,34.383V7.238A7.239,7.239,0,0,1,7.239,0Z" transform="translate(0 0)"/>
+      <path id="dark" class="cls-2" d="M7.239,0H34.387a7.239,7.239,0,0,1,7.239,7.238V34.383a7.239,7.239,0,0,1-7.239,7.238H7.239A7.239,7.239,0,0,1,0,34.383V7.238A7.239,7.239,0,0,1,7.239,0Z" transform="translate(3.62 3.62)"/>
+      <path id="main" class="cls-3" d="M7.239,0H34.387a7.239,7.239,0,0,1,7.239,7.238V34.383a7.239,7.239,0,0,1-7.239,7.238H7.239A7.239,7.239,0,0,1,0,34.383V7.238A7.239,7.239,0,0,1,7.239,0Z" transform="translate(1.81 1.81)"/>
+      <g id="Group_2668" data-name="Group 2668" transform="translate(18.077 18.072)">
+        <g id="Group_2667" data-name="Group 2667" transform="translate(0 0)">
+          <g id="Group_2666" data-name="Group 2666" transform="translate(0 0)">
+            <path id="Polygon_11" data-name="Polygon 11" class="cls-4" d="M4.126,1.573a1,1,0,0,1,1.748,0l3.3,5.941A1,1,0,0,1,8.3,9H1.7A1,1,0,0,1,.825,7.514Z" transform="translate(0 10) rotate(-90)"/>
+          </g>
+        </g>
+        <line id="Line_205" data-name="Line 205" class="cls-5" y2="7" transform="translate(0.5 1.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

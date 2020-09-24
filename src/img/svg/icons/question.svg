@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #c5c7f0;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #c5c7f0;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="question" transform="translate(-5168 -2594)">
+    <rect id="Rectangle_2314" data-name="Rectangle 2314" class="cls-1" width="38" height="38" rx="7" transform="translate(5206 2632) rotate(180)"/>
+    <g id="Group_4171" data-name="Group 4171" transform="translate(5177.75 2602.75)">
+      <g id="Ellipse_1128" data-name="Ellipse 1128" class="cls-2" transform="translate(0.25 0.25)">
+        <circle class="cls-4" cx="9.5" cy="9.5" r="9.5"/>
+        <circle class="cls-5" cx="9.5" cy="9.5" r="8.5"/>
+      </g>
+      <g id="Group_4149" data-name="Group 4149" transform="translate(8.648 5.571)">
+        <circle id="Ellipse_1129" data-name="Ellipse 1129" class="cls-3" cx="1.393" cy="1.393" r="1.393" transform="translate(0 0)"/>
+        <rect id="Rectangle_2288" data-name="Rectangle 2288" class="cls-3" width="2.786" height="4.179" transform="translate(0 4.179)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #c5c7f0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="more" transform="translate(-5168 -2594)">
+    <rect id="Rectangle_2314" data-name="Rectangle 2314" class="cls-1" width="38" height="38" rx="7" transform="translate(5206 2632) rotate(180)"/>
+    <circle id="Ellipse_352" data-name="Ellipse 352" class="cls-2" cx="2.5" cy="2.5" r="2.5" transform="translate(5176.128 2610.083)"/>
+    <circle id="Ellipse_353" data-name="Ellipse 353" class="cls-2" cx="2.5" cy="2.5" r="2.5" transform="translate(5184.128 2610.083)"/>
+    <circle id="Ellipse_354" data-name="Ellipse 354" class="cls-2" cx="2.5" cy="2.5" r="2.5" transform="translate(5192.128 2610.083)"/>
+  </g>
+</svg>

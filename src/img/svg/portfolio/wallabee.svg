@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81.53" height="45.235" viewBox="0 0 81.53 45.235">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afddff"/>
+      <stop offset="0.027" stop-color="#acdaff"/>
+      <stop offset="0.686" stop-color="#6f9cff"/>
+      <stop offset="1" stop-color="#5885ff"/>
+    </linearGradient>
+  </defs>
+  <g id="wallabee" transform="translate(-571.131 -1981.439)">
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="6.945" cy="6.945" rx="6.945" ry="6.945" transform="translate(606.926 1981.439)"/>
+    <path id="Path_321" data-name="Path 321" class="cls-1" d="M217,240.053v.417a19.966,19.966,0,0,0,31.669,16.178,9.887,9.887,0,0,0,.056-16l-17.531-12.875A18.248,18.248,0,0,1,217,240.053Z" transform="translate(399.889 1766.179)"/>
+    <path id="Path_322" data-name="Path 322" class="cls-1" d="M252.772,240.053v.417A19.966,19.966,0,0,1,221.1,256.649a9.887,9.887,0,0,1-.056-16l17.531-12.875A18.248,18.248,0,0,0,252.772,240.053Z" transform="translate(354.131 1766.179)"/>
+  </g>
+</svg>

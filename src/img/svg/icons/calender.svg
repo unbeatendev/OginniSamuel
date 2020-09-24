@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #c5c7f0;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="calender" transform="translate(-5168 -2594)">
+    <rect id="Rectangle_2314" data-name="Rectangle 2314" class="cls-1" width="38" height="38" rx="7" transform="translate(5206 2632) rotate(180)"/>
+    <g id="Group_4172" data-name="Group 4172">
+      <path id="Fill_1" data-name="Fill 1" class="cls-2" d="M15.89,18H2.11A2.112,2.112,0,0,1,0,15.89V3.515a2.112,2.112,0,0,1,2.11-2.11h.843V0H4.36V1.406H13.64V0h1.407V1.406h.843A2.112,2.112,0,0,1,18,3.515V15.89A2.112,2.112,0,0,1,15.89,18ZM1.406,6.61V15.89a.7.7,0,0,0,.7.7H15.89a.7.7,0,0,0,.7-.7V6.61Zm.7-3.8a.7.7,0,0,0-.7.7V5.2H16.593V3.515a.7.7,0,0,0-.7-.7h-.843V4.218H13.64V2.813H4.36V4.218H2.953V2.813Z" transform="translate(5178.5 2604.5)"/>
+      <path id="Clip_4" data-name="Clip 4" class="cls-3" d="M0,18H18V0H0Z" transform="translate(5178.5 2604.5)"/>
+      <path id="Fill_3" data-name="Fill 3" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5181.172 2612.586)"/>
+      <path id="Fill_5" data-name="Fill 5" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5183.984 2612.586)"/>
+      <path id="Fill_6" data-name="Fill 6" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5186.797 2612.586)"/>
+      <path id="Fill_7" data-name="Fill 7" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5189.609 2612.586)"/>
+      <path id="Fill_8" data-name="Fill 8" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5192.422 2612.586)"/>
+      <path id="Fill_9" data-name="Fill 9" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5181.172 2615.398)"/>
+      <path id="Fill_10" data-name="Fill 10" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5183.984 2615.398)"/>
+      <path id="Fill_11" data-name="Fill 11" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5186.797 2615.398)"/>
+      <path id="Fill_12" data-name="Fill 12" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5189.609 2615.398)"/>
+      <path id="Fill_13" data-name="Fill 13" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5181.172 2618.211)"/>
+      <path id="Fill_14" data-name="Fill 14" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5183.984 2618.211)"/>
+      <path id="Fill_15" data-name="Fill 15" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5186.797 2618.211)"/>
+      <path id="Fill_16" data-name="Fill 16" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5189.609 2618.211)"/>
+      <path id="Fill_17" data-name="Fill 17" class="cls-2" d="M0,1.406H1.406V0H0Z" transform="translate(5192.422 2615.398)"/>
+      <path id="Clip_4-2" data-name="Clip 4" class="cls-3" d="M0,18H18V0H0Z" transform="translate(5178.5 2604.5)"/>
+    </g>
+  </g>
+</svg>

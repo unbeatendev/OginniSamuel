@@ -1,0 +1,287 @@
+.portfolio {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: $secondary-grad;
+    overflow: hidden;
+    padding-bottom: 5rem;
+
+    .container {
+        height: 100%;
+        width: 100%;
+        padding-top: 5rem;
+        padding-left: 10rem;
+        position: relative;
+        padding-bottom: 5rem;
+
+        .portfolio-text {
+            position: relative;
+            height: 10rem;
+            padding-top: 5rem;
+            margin-bottom: 17rem;
+
+            h1{
+                font-size: 2.5em;
+            }
+
+            h2{
+                font-size: 1.7em;
+            }
+
+        }
+
+        .wrapper {
+            position: relative;
+            margin-top: 8rem;
+            width: 90%;
+            display: flex;
+            overflow: hidden;
+
+            .card-wrapper {
+                display: flex;
+                flex-direction: row;
+                position: relative;
+                height: 100%;
+                flex-wrap: wrap;
+                width: 100%;
+                
+
+
+
+                .card {
+                    height: 100%;
+                    width: 37rem;
+                    text-align: center;
+                    background: linear-gradient(90deg, #58A0FF, #5966FF);
+                    display: flex;
+                    justify-content: center;
+                    flex-direction: column;
+                    align-items: center;
+                    position: relative;
+                    overflow: hidden;
+                    margin-right: 5rem;
+                    margin-bottom: 5rem;
+
+
+
+                    img{
+                        height: 100%;
+                        z-index: 1;
+                        position: absolute;
+                        opacity: .1;
+                    }
+
+                    .head {
+                        margin-bottom: 0 auto;
+                        text-align: center;
+                        height: 2.5em;
+                        width: 2.5em;
+                        position: relative;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        margin-top: 5rem;
+                        z-index: 4;
+
+                        svg{
+                            position: absolute;
+                            height: 100%;
+                            transform: scale(1);
+                        }
+                    }
+
+                    .text{
+                        margin-top: 4em;
+                        z-index: 4;
+
+                        h1{
+                            font-size: 1.2em;
+                            font-family: $secondary-font;
+                        }
+                        h2{
+                            font-size: 1em;
+                        }
+                    }
+
+
+                    ul {
+                        margin-top: 8rem;
+
+                        li {
+                            margin-bottom: 3em;
+                        }
+
+                        .view {
+                            color: black;
+                            padding: 2rem 3rem;
+                            background: $primary-grad;
+                            font-family: $secondary-font;
+                            border-radius: 1rem;
+                        }
+
+                        .visit {
+                            color: black;
+                            padding: 2rem 3rem;
+                            background: $white;
+                            font-family: $secondary-font;
+                            border-radius: 1rem;
+                        }
+                    }
+
+                    .samples{
+                        height: 100%;
+                        width: 80%;
+                        padding: 2rem 0 5rem 0;
+                        margin: 0 auto;
+                        z-index: 3;
+                        overflow: hidden;
+
+                        .samples-wrapper {
+                            display: flex;
+                            justify-content: space-between;
+                            width: 200%;
+
+
+                        .one{
+                            height: 8rem;
+                            width: 9rem;
+                            position: relative;
+                            overflow: hidden;
+
+
+
+                            img{
+                                height: 100%;
+                                position: relative;
+                                opacity: 1;
+                                transform: scale(2);
+                                right: 0;
+                                top: 0;
+
+                                }   
+                            }
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 85em) {
+    .portfolio {
+        height: 100%;
+
+        .container {
+            height: 100%;
+            padding-bottom: 5rem;
+
+        }
+    }
+}
+
+@media only screen and (max-width: 65em) {
+    .portfolio {
+        height: 100%;
+
+        .container {
+            height: 100%;
+            padding-bottom: 5rem;
+
+        }
+    }
+}
+
+@media only screen and (max-width: 35em) {
+    .portfolio {
+
+        .container {
+            padding-left: 5rem;
+            padding-bottom: 10rem;
+
+ 
+
+            .wrapper {
+                overflow: hidden;
+                margin-top: 14rem;
+
+                .card-wrapper{
+
+
+
+
+                    .card{
+                        width: 37rem;
+                        text-align: center;
+
+
+                        ul {
+                            margin-top: 4rem;
+                        }
+                        .head svg {
+                            transform: scale(1.2);
+                        }
+
+                        .samples{
+                            height: 100%;
+                            width: 80%;
+                            padding: 5rem 0 8rem 0;
+                            margin: 0 auto;
+                            z-index: 3;
+                            overflow: hidden;
+                        }
+                    }
+
+                }
+
+
+
+
+            }
+
+        }
+    }
+}
+
+
+
+@media only screen and (max-width: 20em) {
+    .portfolio {
+        .container {
+            padding-left: 5rem;
+            padding-top: 15rem;
+
+            .portfolio-text{
+                margin-right: 5rem;
+            }
+
+
+
+            .wrapper {
+                overflow: hidden;
+                margin-top: 14rem;
+
+
+
+                    .card{
+                        width: 22rem;
+                        text-align: center;
+
+
+                        ul {
+                            margin-top: 4rem;
+                        }
+
+                        .head svg {
+                            transform: scale(1.2);
+                        }
+                    }
+
+
+
+
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.789" height="38.788" viewBox="0 0 38.789 38.788">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #d4d5ea;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+  </defs>
+  <g id="entertain" transform="translate(-4773.211 -2543.115)">
+    <path id="Path_5234" data-name="Path 5234" class="cls-1" d="M7.145,0h24.5a7.145,7.145,0,0,1,7.145,7.145v24.5a7.145,7.145,0,0,1-7.145,7.145H7.145A7.145,7.145,0,0,1,0,31.643V7.145A7.145,7.145,0,0,1,7.145,0Z" transform="translate(4812 2581.903) rotate(180)"/>
+    <path id="play" class="cls-2" d="M14.068,7.117,2.4.219A1.582,1.582,0,0,0,0,1.588V15.38a1.59,1.59,0,0,0,2.4,1.369L14.068,9.855A1.589,1.589,0,0,0,14.068,7.117Z" transform="translate(4785.713 2554.342)"/>
+  </g>
+</svg>

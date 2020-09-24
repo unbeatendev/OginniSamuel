@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #c5c7f0;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#474bd9"/>
+      <stop offset="1" stop-color="#6b88e8"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" class="cls-1" d="M0,0H14.237V17.135H0Z"/>
+    </clipPath>
+  </defs>
+  <g id="note" transform="translate(-5168 -2594)">
+    <rect id="Rectangle_2314" data-name="Rectangle 2314" class="cls-2" width="38" height="38" rx="7" transform="translate(5206 2632) rotate(180)"/>
+    <g id="Page_1" data-name="Page 1" transform="translate(5180.377 2604.759)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+        <path id="Clip_2-2" data-name="Clip 2" class="cls-1" d="M0,0H14.237V17.135H0Z"/>
+        <g id="Group_3-2" data-name="Group 3" class="cls-3">
+          <path id="Fill_1" data-name="Fill 1" class="cls-4" d="M10.687,17.135H1.222A1.224,1.224,0,0,1,0,15.913V3.224A1.224,1.224,0,0,1,1.222,2H2.335v-.78A1.224,1.224,0,0,1,3.557,0h9.464a1.224,1.224,0,0,1,1.222,1.222V13.911a1.224,1.224,0,0,1-1.222,1.222H11.909v.781A1.224,1.224,0,0,1,10.687,17.135ZM1.222,2.98a.245.245,0,0,0-.244.244V15.913a.245.245,0,0,0,.244.244h9.465a.245.245,0,0,0,.244-.244v-.781H3.557a1.224,1.224,0,0,1-1.222-1.222V2.98Zm2.335-2a.245.245,0,0,0-.245.245V13.911a.245.245,0,0,0,.245.244h9.464a.245.245,0,0,0,.245-.244V1.222a.245.245,0,0,0-.245-.245Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+      <g id="Group_12" data-name="Group 12" transform="translate(4.216 3.036)">
+        <path id="Fill_4" data-name="Fill 4" class="cls-4" d="M7.658,0H.489a.489.489,0,1,0,0,.978H7.658a.489.489,0,1,0,0-.978" transform="translate(0 0)"/>
+        <path id="Fill_6" data-name="Fill 6" class="cls-4" d="M7.658,0H.489a.489.489,0,0,0,0,.978H7.658a.489.489,0,0,0,0-.978" transform="translate(0 2.327)"/>
+        <path id="Fill_8" data-name="Fill 8" class="cls-4" d="M7.658,0H.489a.489.489,0,1,0,0,.978H7.658a.489.489,0,1,0,0-.978" transform="translate(0 4.653)"/>
+        <path id="Fill_10" data-name="Fill 10" class="cls-4" d="M7.658,0H.489a.489.489,0,0,0,0,.978H7.658a.489.489,0,0,0,0-.978" transform="translate(0 6.98)"/>
+      </g>
+    </g>
+  </g>
+</svg>
